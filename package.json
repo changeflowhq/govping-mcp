@@ -1,0 +1,39 @@
+{
+  "name": "@govping/mcp-server",
+  "version": "1.0.0",
+  "description": "GovPing MCP server - free regulatory intelligence for AI agents. Search 27,000+ regulatory changes across 2,000+ government sources. ORCA-structured data.",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "regulatory",
+    "compliance",
+    "legal",
+    "govping",
+    "orca",
+    "government",
+    "enforcement",
+    "fda",
+    "sec",
+    "osha",
+    "epa",
+    "ai-tools",
+    "harvey",
+    "claude"
+  ],
+  "homepage": "https://govping.org/orca",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevebutterworth/govping-mcp"
+  },
+  "author": "GovPing by Changeflow <hello@changeflow.com>",
+  "license": "MIT",
+  "bin": {
+    "govping-mcp": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
