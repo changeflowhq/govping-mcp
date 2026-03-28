@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "govping": {
+      "source": "stevebutterworth/govping-skill",
+      "sourceType": "github",
+      "computedHash": "8dc182566c9530806ee9301ac8ccf616c9d1144af06c23cf86b513dc2fe6acf6"
+    }
+  }
+}

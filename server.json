@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.stevebutterworth/govping",
+  "name": "io.github.changeflowhq/govping",
   "description": "Free regulatory intelligence. Search 27,000+ changes across 2,000+ government sources.",
   "repository": {
-    "url": "https://github.com/stevebutterworth/govping-mcp",
+    "url": "https://github.com/changeflowhq/govping-mcp",
     "source": "github"
   },
   "version": "1.0.2",
