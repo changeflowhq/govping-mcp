@@ -21,7 +21,7 @@ Add to your `claude_desktop_config.json`:
   "mcpServers": {
     "govping": {
       "command": "npx",
-      "args": ["@govping/mcp-server"]
+      "args": ["govping-mcp-server"]
     }
   }
 }
