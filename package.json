@@ -1,6 +1,6 @@
 {
   "name": "govping-mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "GovPing MCP server - free regulatory intelligence for AI agents. Search 27,000+ regulatory changes across 2,000+ government sources. ORCA-structured data.",
   "keywords": [
     "mcp",
