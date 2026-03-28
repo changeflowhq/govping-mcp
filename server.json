@@ -1,0 +1,29 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.stevebutterworth/govping",
+  "description": "Free regulatory intelligence for AI agents. Search 27,000+ structured regulatory changes across 2,000+ government sources worldwide. ORCA format. No API key required.",
+  "repository": {
+    "url": "https://github.com/stevebutterworth/govping-mcp",
+    "source": "github"
+  },
+  "version": "1.0.2",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "govping-mcp-server",
+      "version": "1.0.2",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": []
+    }
+  ],
+  "remoteEndpoints": [
+    {
+      "url": "https://changeflow.com/govping/mcp",
+      "transport": {
+        "type": "streamableHttp"
+      }
+    }
+  ]
+}
